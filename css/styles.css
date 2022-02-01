@@ -1,0 +1,115 @@
+ h1{
+        font-family: 'Sacramento', cursive ; 
+        margin:0 auto 0 auto;
+        font-size: 5.625rem;
+        color:#66bfbf;
+        line-height: 2;
+    }
+body{
+    font-family: 'Merriweather', serif;
+    margin:0;
+    color:#40514E;
+    text-align: center;
+}
+h2{
+    font-family:  'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color:#66bfbf;
+    font-weight:normal;
+}
+
+.first-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: #eaf6f6;
+}
+.third-container{
+    background-color:#66BFBF;
+    padding-bottom:50px;
+    padding-top: 50px;
+    font-family:  'Montserrat', sans-serif;
+}
+
+.cloud2{
+   position:absolute;
+    top:250px;
+    left:450px;
+}
+.cloud1{
+    position:absolute;
+    right:500px;
+    top:65px;
+}
+a{
+    color:#11999E;
+}
+a:hover{
+    color:#eaf6f6;
+}
+h3{
+    color:#11999E;
+    
+}
+.skill-row{
+    line-height: 2;
+    text-align:left;
+    width:50%;
+    margin:100px auto 100px auto;
+}
+.code-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skatting{
+    float:right;
+    margin-left:30px;
+    width:25%;
+}
+
+.para{
+    line-height:2;
+    width:40%;
+    margin:16px auto 50px auto;
+}
+.name{
+    color:#eaf6f6;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+.linkedin{
+    margin-right:10px;
+    margin-left:10px;
+}
+.my-photo{
+    padding-top:30px;
+}
+.para2{
+    width:40%;
+    margin:50px auto 50px auto;
+    line-height:2;
+}
+.contact-me{
+    margin:50px auto 100px auto;
+}
+.btn{
+
+    margin:30px auto 50px auto;
+    padding:10px 20px 10px 20px;
+    text-decoration:none;
+    background-image:-webkit-linear-gradient(top,#3376b4,#1650bd);
+    border-radius:10px;
+    color:#19397e
+}
+.btn:hover{
+    background-image:-webkit-linear-gradient(top, #7d83d1,#19397e);
+}
+
+hr{
+    border-style:dotted;
+    border-width:8px 0 0 0;
+    border-color:#eaf6f6;
+    width:5%;
+
+}
